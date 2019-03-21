@@ -3,16 +3,8 @@ Algorithms Home Work: Write a function called "same", which accepts two arrays. 
 
 To Run: 
 
-paste this code in a NotePad file and save it as .js. open another empty note pad in the same directory and paste this:
-<!Doctype html>
-<html>
-  <head>
-    <title></title>
-  </head>
-  <body>
-    <script src = "the .js file goes here"></script>
-  </body>
-</html>
+paste this code in a NotePad file and save it as .js. open another empty note pad in the same directory and paste the html found in this link:
+https://www.sitepoint.com/a-basic-html5-template/
 
 next, save this file as .html. After that open this file with your favorite browser and when inside the browser, press f12. The console should show up.
 
